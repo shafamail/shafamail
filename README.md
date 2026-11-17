@@ -31,4 +31,4 @@ I am a software architect and engineering leader with **15+ years of production 
 * **Education:** MBA — University of Strathclyde, Glasgow, UK | B.Sc. Agricultural Engineering — Obafemi Awolowo University
 * **Certifications:** Chartered Manager (**CMgr MCMI**) | Professional Scrum Master (**PSM I**) | Nvidia Prompt Engineering & Data Science Workflows | Oracle Certified Professional
 * **Location:** Lagos, Nigeria (`UTC+1` — Full EMEA & Americas Overlap) — **Open to Global Remote Opportunities**
-* **Connect:** [LinkedIn](https://www.linkedin.com/in/olusoji-ashafa/) | Email: `olusojiashafa@gmail.com`
+* **Connect:** [LinkedIn](https://www.linkedin.com/in/olusoji-ashafa/)
